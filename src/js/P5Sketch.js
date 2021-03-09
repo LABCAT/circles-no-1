@@ -551,7 +551,7 @@ const P5Sketch = () => {
                 console.log(
                     'Music By: http://labcat.nz/',
                     '\n',
-                    'Animation By: https://github.com/LABCAT',
+                    'Animation By: https://github.com/LABCAT/circles-no-1',
                     '\n',
                     'Code Inspiration: https://www.openprocessing.org/sketch/429904'
                 );
